@@ -1,0 +1,5 @@
+F:\Practice\Store\Store\InventoryManagement.Application\obj\Debug\netcoreapp3.1\InventoryManagement.Application.csproj.AssemblyReference.cache
+F:\Practice\Store\Store\InventoryManagement.Application\obj\Debug\netcoreapp3.1\InventoryManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+F:\Practice\Store\Store\InventoryManagement.Application\obj\Debug\netcoreapp3.1\InventoryManagement.Application.AssemblyInfoInputs.cache
+F:\Practice\Store\Store\InventoryManagement.Application\obj\Debug\netcoreapp3.1\InventoryManagement.Application.AssemblyInfo.cs
+F:\Practice\Store\Store\InventoryManagement.Application\obj\Debug\netcoreapp3.1\InventoryManagement.Application.csproj.CoreCompileInputs.cache

@@ -1,0 +1,17 @@
+F:\Practice\Store\Store\ShopManagement.Domain\bin\Debug\net5.0\ShopManagement.Domain.deps.json
+F:\Practice\Store\Store\ShopManagement.Domain\bin\Debug\net5.0\ShopManagement.Domain.dll
+F:\Practice\Store\Store\ShopManagement.Domain\bin\Debug\net5.0\ref\ShopManagement.Domain.dll
+F:\Practice\Store\Store\ShopManagement.Domain\bin\Debug\net5.0\ShopManagement.Domain.pdb
+F:\Practice\Store\Store\ShopManagement.Domain\bin\Debug\net5.0\ShopManagement.Application.Contracts.dll
+F:\Practice\Store\Store\ShopManagement.Domain\bin\Debug\net5.0\_0_Framework.dll
+F:\Practice\Store\Store\ShopManagement.Domain\bin\Debug\net5.0\_0_Framework.pdb
+F:\Practice\Store\Store\ShopManagement.Domain\bin\Debug\net5.0\ShopManagement.Application.Contracts.pdb
+F:\Practice\Store\Store\ShopManagement.Domain\obj\Debug\net5.0\ShopManagement.Domain.csproj.AssemblyReference.cache
+F:\Practice\Store\Store\ShopManagement.Domain\obj\Debug\net5.0\ShopManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\Practice\Store\Store\ShopManagement.Domain\obj\Debug\net5.0\ShopManagement.Domain.AssemblyInfoInputs.cache
+F:\Practice\Store\Store\ShopManagement.Domain\obj\Debug\net5.0\ShopManagement.Domain.AssemblyInfo.cs
+F:\Practice\Store\Store\ShopManagement.Domain\obj\Debug\net5.0\ShopManagement.Domain.csproj.CoreCompileInputs.cache
+F:\Practice\Store\Store\ShopManagement.Domain\obj\Debug\net5.0\ShopManagement.Domain.csproj.CopyComplete
+F:\Practice\Store\Store\ShopManagement.Domain\obj\Debug\net5.0\ShopManagement.Domain.dll
+F:\Practice\Store\Store\ShopManagement.Domain\obj\Debug\net5.0\ref\ShopManagement.Domain.dll
+F:\Practice\Store\Store\ShopManagement.Domain\obj\Debug\net5.0\ShopManagement.Domain.pdb

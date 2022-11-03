@@ -1,0 +1,10 @@
+F:\Practice\Store\Store\InventoryManagement.Infrastructure.Configuration\bin\Debug\netcoreapp3.1\InventoryManagement.Infrastructure.Configuration.deps.json
+F:\Practice\Store\Store\InventoryManagement.Infrastructure.Configuration\bin\Debug\netcoreapp3.1\InventoryManagement.Infrastructure.Configuration.dll
+F:\Practice\Store\Store\InventoryManagement.Infrastructure.Configuration\bin\Debug\netcoreapp3.1\InventoryManagement.Infrastructure.Configuration.pdb
+F:\Practice\Store\Store\InventoryManagement.Infrastructure.Configuration\obj\Debug\netcoreapp3.1\InventoryManagement.Infrastructure.Configuration.csproj.AssemblyReference.cache
+F:\Practice\Store\Store\InventoryManagement.Infrastructure.Configuration\obj\Debug\netcoreapp3.1\InventoryManagement.Infrastructure.Configuration.GeneratedMSBuildEditorConfig.editorconfig
+F:\Practice\Store\Store\InventoryManagement.Infrastructure.Configuration\obj\Debug\netcoreapp3.1\InventoryManagement.Infrastructure.Configuration.AssemblyInfoInputs.cache
+F:\Practice\Store\Store\InventoryManagement.Infrastructure.Configuration\obj\Debug\netcoreapp3.1\InventoryManagement.Infrastructure.Configuration.AssemblyInfo.cs
+F:\Practice\Store\Store\InventoryManagement.Infrastructure.Configuration\obj\Debug\netcoreapp3.1\InventoryManagement.Infrastructure.Configuration.csproj.CoreCompileInputs.cache
+F:\Practice\Store\Store\InventoryManagement.Infrastructure.Configuration\obj\Debug\netcoreapp3.1\InventoryManagement.Infrastructure.Configuration.dll
+F:\Practice\Store\Store\InventoryManagement.Infrastructure.Configuration\obj\Debug\netcoreapp3.1\InventoryManagement.Infrastructure.Configuration.pdb

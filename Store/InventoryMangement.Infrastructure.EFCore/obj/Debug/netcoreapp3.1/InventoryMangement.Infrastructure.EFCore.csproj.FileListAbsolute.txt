@@ -1,0 +1,5 @@
+F:\Practice\Store\Store\InventoryMangement.Infrastructure.EFCore\obj\Debug\netcoreapp3.1\InventoryMangement.Infrastructure.EFCore.csproj.AssemblyReference.cache
+F:\Practice\Store\Store\InventoryMangement.Infrastructure.EFCore\obj\Debug\netcoreapp3.1\InventoryMangement.Infrastructure.EFCore.GeneratedMSBuildEditorConfig.editorconfig
+F:\Practice\Store\Store\InventoryMangement.Infrastructure.EFCore\obj\Debug\netcoreapp3.1\InventoryMangement.Infrastructure.EFCore.AssemblyInfoInputs.cache
+F:\Practice\Store\Store\InventoryMangement.Infrastructure.EFCore\obj\Debug\netcoreapp3.1\InventoryMangement.Infrastructure.EFCore.AssemblyInfo.cs
+F:\Practice\Store\Store\InventoryMangement.Infrastructure.EFCore\obj\Debug\netcoreapp3.1\InventoryMangement.Infrastructure.EFCore.csproj.CoreCompileInputs.cache

@@ -1,0 +1,10 @@
+F:\Practice\Store\Store\0-FrameWork\bin\Debug\netcoreapp3.1\0-FrameWork.deps.json
+F:\Practice\Store\Store\0-FrameWork\bin\Debug\netcoreapp3.1\0-FrameWork.dll
+F:\Practice\Store\Store\0-FrameWork\bin\Debug\netcoreapp3.1\0-FrameWork.pdb
+F:\Practice\Store\Store\0-FrameWork\obj\Debug\netcoreapp3.1\0-FrameWork.csproj.AssemblyReference.cache
+F:\Practice\Store\Store\0-FrameWork\obj\Debug\netcoreapp3.1\0-FrameWork.GeneratedMSBuildEditorConfig.editorconfig
+F:\Practice\Store\Store\0-FrameWork\obj\Debug\netcoreapp3.1\0-FrameWork.AssemblyInfoInputs.cache
+F:\Practice\Store\Store\0-FrameWork\obj\Debug\netcoreapp3.1\0-FrameWork.AssemblyInfo.cs
+F:\Practice\Store\Store\0-FrameWork\obj\Debug\netcoreapp3.1\0-FrameWork.csproj.CoreCompileInputs.cache
+F:\Practice\Store\Store\0-FrameWork\obj\Debug\netcoreapp3.1\0-FrameWork.dll
+F:\Practice\Store\Store\0-FrameWork\obj\Debug\netcoreapp3.1\0-FrameWork.pdb
